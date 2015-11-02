@@ -1,0 +1,3 @@
+Hello World:
+
+Here are the VHDL files related to the project stage number 3.
